@@ -1,0 +1,4 @@
+name: LocalUUIDCache
+main: me.virustotal.localuuidcache.LocalUUIDCache
+version: 1.0
+author: VirusTotal
